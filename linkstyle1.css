@@ -1,0 +1,196 @@
+body{
+    background-color: bisque;
+}
+header{
+    background-color:aliceblue;
+    width: auto;
+    height: 50px;
+}
+header ul{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+li input{
+    margin-top: 10px;
+    margin-right: 40px;
+    padding-right: 40px;
+}
+li{
+    padding-left: 20px;
+}
+.left{background-color:  aliceblue;
+    width: 21%;
+    height: auto;
+    float: left;
+    margin-top: 17px;
+}
+#thirty{
+    float: right;
+}
+.yash,h3,.yash1{
+    text-align: center;
+}
+.left1{
+    padding-left: 10px;
+    padding-right:10px;
+}
+.strong{
+    color: rgb(36, 36, 253);
+}
+.center{
+    background-color:aliceblue;
+    width: 50%;
+    margin-top: 0px;
+    margin-left: 220px;
+    
+}
+.center ul{
+    list-style-type: none;
+    display:flex;
+    flex-direction: row;
+}
+.center .img{
+    margin-bottom: -10px;
+    margin-bottom: -5px;
+    padding-left: 20px;
+    padding-top: 15px;
+    padding-right: 8px;
+}
+.center input{
+    padding-top: 10px;
+    margin-bottom: -8px;
+    border-radius: 20px;
+    padding-left: 8px;
+    padding-right: 250px;
+}
+#li{
+    padding-left: 2px;  
+}
+.center ul li{
+    padding-right: 30px;
+}
+.center1{
+    background-color: aliceblue;
+    width: 50%;
+    margin-left: 220px;
+}
+.center1 p{
+    padding: 10px 20px;
+}
+.center1 ul {
+    list-style-type: none;
+    display: flex;
+}
+.center1 ul li{
+    padding: 4px 20px;
+    margin-left: -45px;
+    margin-right: 40px;
+  font-size: larger;
+}
+.center2{
+    width: 50%;
+    margin-left: 220px;
+    background-color:aliceblue;
+}
+.center2 .published{
+    padding-left: 10px;
+    padding-right: 30px;
+}.center1 .img{
+    float: left;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+.center1 #p{
+    padding-top: 20px;
+    padding-left: 70px;
+    margin-right: 0;
+
+}
+.dotss{float: right;
+    margin-top: -100px;
+    padding-right: 20px;
+    font-size: xx-large; }
+.center2 img{
+    float: left;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+.center2 #p{
+    padding-top: 20px;
+    padding-left: 70px;
+    margin-right: 0;
+
+}
+ 
+.dots{
+    float: right;
+    margin-top: -100px;
+    padding-right: 20px;
+    font-size: xx-large;  
+}
+ol{
+    list-style-type: none;
+    display: flex;
+}
+.li{
+       padding: 4px 20px;
+    margin-left: -45px;
+    margin-right: 40px;
+  font-size: larger;
+}
+.right{
+    width: 27%;
+    background-color: aliceblue;
+    float: right;
+    margin-top: -125%;
+
+}.right ul li{
+    font-size: medium;
+    font-weight: normal;
+    padding: 8px 0px;
+}
+.right p{
+    padding: 10px 10px;
+}
+.right1{ width: 27%;
+    background-color:aliceblue;
+    float: right;
+    margin-top: -90%;
+}
+.right1 p{
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.right2{ width: 27%;
+    background-color: aliceblue;
+    float: right;
+    margin-top: -73.5%;
+
+
+}
+.right2 img{
+    float: left;
+    padding-top: 25px;
+    padding-left: 10px;
+}
+.right2 p{
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.right2 #t{
+    
+    padding-top: 10px;
+    padding-left: 50px;
+    margin-right: 0;
+}
+.right2 button{
+    border-radius: 20px;
+    padding-right: 90px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 20px;
+}
+
